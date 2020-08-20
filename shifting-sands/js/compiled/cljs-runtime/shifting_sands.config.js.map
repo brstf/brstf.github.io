@@ -1,0 +1,1 @@
+{"version":3,"sources":["shifting_sands/config.cljs"],"mappings":";AAEA,AAAKA,AACMC","names":["shifting-sands.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns shifting-sands.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}
