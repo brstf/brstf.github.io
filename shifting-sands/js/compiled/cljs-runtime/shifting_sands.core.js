@@ -17,8 +17,8 @@ return reagent.dom.render.cljs$core$IFn$_invoke$arity$2(new cljs.core.Persistent
 shifting_sands.core.init = (function shifting_sands$core$init(){
 shifting_sands.router.start_BANG_();
 
-var G__74830_74831 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword("shifting-sands.events","initialize-db","shifting-sands.events/initialize-db",954565019)], null);
-(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__74830_74831) : re_frame.core.dispatch_sync.call(null,G__74830_74831));
+var G__98983_98984 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword("shifting-sands.events","initialize-db","shifting-sands.events/initialize-db",954565019)], null);
+(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__98983_98984) : re_frame.core.dispatch_sync.call(null,G__98983_98984));
 
 shifting_sands.core.dev_setup();
 
